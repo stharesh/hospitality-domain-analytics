@@ -18,7 +18,7 @@ An exploratory data analysis project examining hotel revenue and occupancy perfo
 
 ## Tools
 
-Python, Pandas, and Matplotlib.
+Python, NumPy, Pandas, and Matplotlib.
 
 ## Data availability
 
