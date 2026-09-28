@@ -8,13 +8,22 @@ An exploratory data analysis project examining hotel revenue and occupancy perfo
 - **9,200** aggregated occupancy records processed
 - **25** hotel properties across **4** cities and **4** room categories
 
-## What the analysis demonstrates
+## Questions answered
 
-- Data-quality checks and cleaning
-- Dataset joins and KPI creation
-- Occupancy and realized-revenue analysis
-- City, room-type, booking-channel, and time-based comparisons
-- Business-focused visualisations using Python
+- How does occupancy vary by room category and city?
+- Is occupancy stronger on weekdays or weekends?
+- Which cities and hotel categories generate the most realized revenue?
+- How does revenue vary by month and booking platform?
+
+## Python skills demonstrated
+
+- Reading and exploring CSV data with Pandas
+- Checking data with `head()`, `shape`, `describe()`, `unique()`, and `value_counts()`
+- Filtering invalid records and reviewing missing values and outliers
+- Creating calculated columns such as occupancy percentage
+- Combining tables with `merge()` and `concat()`
+- Aggregating results with `groupby()`, `sum()`, and `mean()`
+- Creating charts with Pandas and Matplotlib
 
 ## Tools
 
