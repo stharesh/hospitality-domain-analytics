@@ -20,6 +20,10 @@ An exploratory data analysis project examining hotel revenue and occupancy perfo
 
 Python, NumPy, Pandas, and Matplotlib.
 
+## Included
+
+- [Analysis notebook](hotel_revenue_occupancy_analysis.ipynb) with documented transformations, validated outputs, and saved chart renders
+
 ## Data availability
 
-The original datasets are intentionally excluded from this public repository. The project notebook and its saved outputs will be added separately for review of the analysis approach and results.
+The original datasets are intentionally excluded from this public repository. The notebook preserves the analysis approach, validated outputs, and chart renders for review without exposing source files.
