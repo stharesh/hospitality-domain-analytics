@@ -22,8 +22,8 @@ Python, NumPy, Pandas, and Matplotlib.
 
 ## Included
 
-- [Analysis notebook](hotel_revenue_occupancy_analysis.ipynb) with documented transformations, validated outputs, and saved chart renders
+- [Analysis notebook](hotels_analysis.ipynb) with the original analysis code and saved outputs
 
 ## Data availability
 
-The original datasets are intentionally excluded from this public repository. The notebook preserves the analysis approach, validated outputs, and chart renders for review without exposing source files.
+The original datasets are intentionally excluded from this public repository. The notebook is provided for code and saved-output review without exposing source files.
